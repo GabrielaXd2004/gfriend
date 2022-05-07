@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/gfriend/static/css/main.4c0a596c.css",
+    "main.js": "/gfriend/static/js/main.42446cd2.js",
+    "static/media/Sowon.jpg": "/gfriend/static/media/Sowon.2dac9352dfd8c66e7416.jpg",
+    "static/media/Yuju.jpg": "/gfriend/static/media/Yuju.001b5c9954ce6099cf69.jpg",
+    "static/media/KyoKaraWatashitachiWa.webp": "/gfriend/static/media/KyoKaraWatashitachiWa.11cb7fa9e044ee3487d1.webp",
+    "static/media/SinB.jpg": "/gfriend/static/media/SinB.bbd1c5aa66ea4cf31370.jpg",
+    "static/media/Eunha.jpg": "/gfriend/static/media/Eunha.5ded9297e3f1c1335ed7.jpg",
+    "static/media/ot6.jpg": "/gfriend/static/media/ot6.7138a796c0c9c2bc2270.jpg",
+    "static/media/Umji.jpg": "/gfriend/static/media/Umji.9cd080d928f856b44698.jpg",
+    "static/media/FlowerBud.png": "/gfriend/static/media/FlowerBud.2e10d906042e88b0404b.png",
+    "static/media/SeasonOfGlass.png": "/gfriend/static/media/SeasonOfGlass.f581f343c8e086736d41.png",
+    "static/media/FallinLight.jpg": "/gfriend/static/media/FallinLight.6c91109bca896da93d66.jpg",
+    "static/media/Yerin.jpg": "/gfriend/static/media/Yerin.a98452489810508064f6.jpg",
+    "static/media/Snowflake.png": "/gfriend/static/media/Snowflake.a1d1793f21958ba3a851.png",
+    "static/media/TheAwakening.jpg": "/gfriend/static/media/TheAwakening.903f5ff6d401dd34b414.jpg",
+    "static/media/Rainbow.jpg": "/gfriend/static/media/Rainbow.65d379d7b91517390be5.jpg",
+    "static/media/LOL.png": "/gfriend/static/media/LOL.3b28265114a0d00ac882.png",
+    "static/media/FeverSeason.jpg": "/gfriend/static/media/FeverSeason.b7137dfc04dbe8a8ab50.jpg",
+    "static/media/timeForUs.png": "/gfriend/static/media/timeForUs.45f9e29ea9b1d412f2b0.png",
+    "static/media/WalpurgisNight.jpg": "/gfriend/static/media/WalpurgisNight.f0b2a16e7f335e92cb27.jpg",
+    "static/media/TimeForTheMoonNight.jpg": "/gfriend/static/media/TimeForTheMoonNight.11eb7ad85ec124be079e.jpg",
+    "static/media/Labyrinth.jpg": "/gfriend/static/media/Labyrinth.889e16cc83e94bbb79e3.jpg",
+    "static/media/SongOfTheSirens.jpg": "/gfriend/static/media/SongOfTheSirens.06293972466f7083af79.jpg",
+    "static/media/Parallel.jpg": "/gfriend/static/media/Parallel.25a9fccd500610044562.jpg",
+    "index.html": "/gfriend/index.html",
+    "main.4c0a596c.css.map": "/gfriend/static/css/main.4c0a596c.css.map",
+    "main.42446cd2.js.map": "/gfriend/static/js/main.42446cd2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c0a596c.css",
+    "static/js/main.42446cd2.js"
+  ]
+}

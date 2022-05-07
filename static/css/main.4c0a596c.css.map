@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.4c0a596c.css","mappings":"AAAA,WACI,wBAAyB,CACzB,UAAY,CACZ,8DACJ","sources":["index.css"],"sourcesContent":["html, boddy {\n    background-color: #5f4b8b;\n    color: white;\n    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;\n}"],"names":[],"sourceRoot":""}
